@@ -1,16 +1,25 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "number": "1",
+      "description": "test",
+      "date": "2023-01-09",
+      "status": "Concluída",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "number": "1",
+      "description": "test",
+      "date": "2023-01-09",
+      "status": "Concluída",
+      "id": 1
+    },
+    {
+      "number": "1",
+      "description": "test",
+      "date": "2023-01-09",
+      "status": "Concluída",
+      "id": 1
     }
   ]
 }
